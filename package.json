@@ -1,0 +1,16 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "API desenvolvida no curso JS Impressionador da Hashtag Treinamentos",
+  "license": "ISC",
+  "author": "Lucas Meirelles",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-watch": "node --watch ."
+  },
+  "dependencies": {
+    "body": "^5.1.0"
+  }
+}
